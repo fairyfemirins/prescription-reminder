@@ -55,5 +55,8 @@ Run unit tests:
 python -m pytest tests/test_reminder.py -v
 ```
 
+## Note
+This repository was published under `fairyfemirins` due to GitHub namespace restrictions. A transfer to `femirins` is pending.
+
 ## License
 This project is licensed under the MIT License.
